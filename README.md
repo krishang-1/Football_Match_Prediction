@@ -91,5 +91,3 @@ results = run_v15_syndicate_engine(home_team_data, away_team_data)
 ```
 
 ---
-
-**Would you like me to add a "Model Limitations" section that discusses the impact of un-modeled variables like weather or stadium noise?**
