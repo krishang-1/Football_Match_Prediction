@@ -1,4 +1,4 @@
-This revised **V2 README** is tailored to be the centerpiece of your student project documentation. It breaks down the mathematical weightings and the logical evolution from the V1 (Genoa vs. Cagliari) baseline to this advanced tactical engine.
+This revised **V2 README** is tailored to be the centerpiece of the documnetation. It breaks down the mathematical weightings and the logical evolution from the V1 (Genoa vs. Cagliari) baseline to this advanced tactical engine.
 
 ---
 
